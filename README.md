@@ -45,12 +45,12 @@ This project replicates the UI and features of the Amazon shopping app, focusing
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-shopping-app-clone.git
+   git clone https://github.com/shubham-jaishu/Amazon_Shopping_App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd amazon-shopping-app-clone
+   cd Amazon_Shopping_App
    ```
 
 3. Open the `index.html` file in your browser:
